@@ -2,7 +2,7 @@
 
 📡 **[https://tryhackme.com/room/mrrobot](https://tryhackme.com/room/mrrobot)**
 
-## Part 1 | One percent of the one percent
+## One percent of the one percent
 
 First of all, let's obey the one percent of the one percent and then as always scan the ip with nmap.
 
